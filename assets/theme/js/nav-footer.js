@@ -92,8 +92,10 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '								<div class="mbr-section-btn">'+
 '									<a class="btn btn-icon" href="https://www.facebook.com/VidyasSunilAssociates" target="_blank"> <span class="socicon socicon-facebook mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="https://twitter.com/VidyaSunil" target="_blank"> <span class="socicon socicon-twitter mbr-iconfont mbr-iconfont-btn"></span></a>'+
+'									<a class="btn btn-icon" href="https://www.instagram.com/vidyasunilassociates/" target="_blank"> <span class="socicon socicon-instagram mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="https://www.linkedin.com/in/vidyasunil" target="_blank"> <span class="socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="http://vidyasunil.blogspot.in" target="_blank"> <span class="socicon socicon-blogger mbr-iconfont mbr-iconfont-btn"></span></a>'+
+'									<a class="btn btn-icon" href="https://www.tumblr.com/blog/vidyasunilandassociates" target="_blank"> <span class="socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="https://plus.google.com/u/0/+VidyaSunil" target="_blank"> <span class="socicon socicon-google mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="https://vidyasunilassociates.wordpress.com" target="_blank"> <span class="socicon socicon-wordpress mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '								</div>'+
@@ -156,7 +158,7 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '									Contact Us'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									VidyaSunil & Associates Pvt. Ltd'+
+'									VidyaSunil & Associates'+
 '									<br>'+
 '									# 64 , Benaka Krupa Apartments'+
 '									<br>'+
@@ -170,6 +172,8 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '									<br>'+
 '									Cell No. :+91  9739834819 / +91 9480633382'+
 '									<br>'+
+'									<br><strong>Follow Our Blogs On</strong>  <a class="btn btn-icon" href="https://vidyasunilassociates.wordpress.com" target="_blank"> <span class="socicon socicon-wordpress mbr-iconfont mbr-iconfont-btn"></span></a>'+
+'									<br><strong>Join our FB Group At</strong>  <a class="btn btn-icon" href="https://www.facebook.com/groups/VidyaSunil" target="_blank"> <span class="socicon socicon-facebook mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '								</p>'+
 '							</div>'+
 '						</div>'+
