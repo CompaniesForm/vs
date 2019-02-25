@@ -92,7 +92,7 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '								<div class="mbr-section-btn">'+
 '									<a class="btn btn-icon" href="https://www.facebook.com/VidyasSunilAssociates" target="_blank"> <span class="socicon socicon-facebook mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="https://twitter.com/VidyaSunil" target="_blank"> <span class="socicon socicon-twitter mbr-iconfont mbr-iconfont-btn"></span></a>'+
-'									<a class="btn btn-icon" href="https://www.instagram.com/vidyasunilassociates/" target="_blank"> <span class="socicon socicon-instagram mbr-iconfont mbr-iconfont-btn"></span></a>'+
+'									<a class="btn btn-icon" href="https://www.instagram.com/vidyasunilandassociates/" target="_blank"> <span class="socicon socicon-instagram mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="https://www.linkedin.com/in/vidyasunil" target="_blank"> <span class="socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="http://vidyasunil.blogspot.in" target="_blank"> <span class="socicon socicon-blogger mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="https://www.tumblr.com/blog/vidyasunilandassociates" target="_blank"> <span class="socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn"></span></a>'+
