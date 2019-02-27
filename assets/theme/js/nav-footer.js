@@ -168,7 +168,7 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '									<br>'+
 '									Bangalore - 560085'+
 '									<br>'+
-'									E Mail ID : vidyasunilassociatest@gmail.com'+
+'									E Mail ID : vidyasunilassociates@gmail.com'+
 '									<br>'+
 '									Cell No. :+91  9739834819 / +91 9480633382'+
 '									<br>'+
